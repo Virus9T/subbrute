@@ -2,7 +2,6 @@
 
 # needed libraries
 import requests
-from termcolor import colored
 
 # getting the target url
 target=input("Enter the target domain:")
